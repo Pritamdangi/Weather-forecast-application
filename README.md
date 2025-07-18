@@ -2,6 +2,7 @@
 Weather Info Finder - C++ Console App
 
 Features:-
+
  Search weather info for 15 major Indian cities
  Case-insensitive city name search
  Displays temperature (in Celsius) and weather condition
@@ -9,6 +10,7 @@ Features:-
  Perfect for beginners learning C++ concepts
 
 Supported Cities:-
+
  New Delhi
  Mumbai
  Bangalore
@@ -26,6 +28,7 @@ Supported Cities:-
  Patna
 
 Note:-
+
 The program uses a fixed list of cities; there is no API connection.
 Data shown is dummy/sample data and not live weather data.
 Input is case-insensitive and supports multi-word city names.
